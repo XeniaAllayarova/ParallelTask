@@ -1,0 +1,10 @@
+﻿Short file with minimal spaces but with other whitespace:
+First line
+Second line    has extra spaces
+Third line
+Tab→separated→values
+Line with
+many
+newlines
+
+Final line.
